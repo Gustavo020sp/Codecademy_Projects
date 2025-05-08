@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\bin\Debug\net9.0\Bibliographical_Inheritance.exe
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\bin\Debug\net9.0\Bibliographical_Inheritance.deps.json
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\bin\Debug\net9.0\Bibliographical_Inheritance.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\bin\Debug\net9.0\Bibliographical_Inheritance.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\bin\Debug\net9.0\Bibliographical_Inheritance.pdb
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\refint\Bibliographical_Inheritance.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.pdb
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\Bibliographical_Inheritance.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy Projects\Bibliographical_Inheritance\Bibliographical_Inheritance\obj\Debug\net9.0\ref\Bibliographical_Inheritance.dll
