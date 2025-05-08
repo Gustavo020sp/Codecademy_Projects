@@ -1,0 +1,300 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    overflow-x: clip;
+}
+
+* {
+    max-width: 100vw; /* Impede que elementos ultrapassem a largura da tela */
+    box-sizing: border-box; /* Garante que padding/border não aumentam a largura */
+}
+
+
+header{
+    height: 85px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+header h1{
+    padding-left: 30px;
+    color: #4a4a4a;
+    font-size: 24px;
+    font-family: 'Roboto';
+    font-weight: 400 !important;
+}
+
+header ul{
+    display: inline-flex;
+    list-style: none;
+    margin-left: auto;
+    padding-right: 30px;
+}
+
+header ul li{
+    padding-left: 45px;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 400 !important;
+    line-height: 1.6;
+}
+
+#ig_logo{
+    height: 17px;
+}
+
+header a {
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    background-image: url('../images/banner-landingpage.jpg');
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sign-up-section{
+    display:flex;
+    flex-direction: column;
+    margin-top: 170px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    background-color: #9DC20A;
+    border: 1px solid #979797;
+    align-items: center;
+    color: white;
+    max-width: 650px;
+}
+
+.sign-up-section h1{
+    font-size: 50px;
+    font-family: 'Roboto';
+}
+
+.sign-up-section h3{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.sign-up-section p{
+    font-size: 20px;
+    font-family: 'Roboto';
+    line-height: 1.4;
+    text-align: center;
+}
+
+#date{
+    font-weight: bold;
+}
+
+.sign-up-section button{
+    background-color: #4a4a4a;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto';
+    line-height: 1.4;
+    width: 408px;
+    padding: 25px;
+    border-radius: 4px;
+}
+
+.features-section{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(239, 246, 246);
+    justify-content: center;
+}
+
+.left-picture, .right-picture{
+    max-width: 600px;
+    padding-top: 32px;
+    padding-left: 32px; 
+    padding-right: 32px;
+    padding-bottom: 50px;
+    margin-top: 64px;
+    background-color: white;
+    text-align: center;
+}
+
+
+.left-picture img{
+    width: 90%;
+    height: 65%;
+}
+
+.right-picture img{
+    width: 90%;
+    height: 65%;
+}
+
+figcaption{
+    margin-top: 40px;
+    text-align: center;
+    color: #4a4a4a;
+    font-size: 16px;
+    font-family: 'Roboto';
+    line-height: 1.6;
+}
+
+.bold-title{
+    color: #4a4a4a;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Robot';
+    line-height: 1.2;
+}
+
+.filters-section{
+    background-color: #4a4a4a;
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+.filters-section h2{
+    color:white;
+    opacity: 100%;
+    font-size: 36px;
+    font-family: 'Roboto';
+}
+
+.filters-section p{
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto';
+    line-height: 1.4;
+    padding-bottom: 80px;
+}
+
+.filters-section img{
+    display: inline-flex;
+    height: 400px;
+    width: 370px;
+}
+
+.quotes-section{
+    display: flex;
+    color: #4a4a4a;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 1.1;
+    align-items: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin: auto;
+}
+
+.quotes-section img{
+    padding-left: 20px;
+}
+
+.footer{
+    display: flex;
+    background-color: #9b9b9b;
+    height: 62px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Roboto';
+    padding-left: 30px;
+}
+
+.footer span{
+    right: 0;
+    position: absolute;
+    padding-right: 30px;
+}
+
+header button{
+    background-color: #9DC20A;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+@media (min-width: 768px){
+    header button, .mobile-menu{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+
+    .sign-up-section{
+        color: white;
+        background-color: transparent;
+        border: transparent;
+    }
+    .sign-up-section p, .sign-up-section button{
+        display: none;
+    }
+
+    .features-section{
+        flex-wrap: nowrap;
+        margin-bottom: auto;
+    }
+
+    .left-picture, .right-picture{
+        flex-shrink: 1;
+        width: 720px;
+        height: auto;
+        padding-bottom: 130px;
+    }
+
+    .filters-section{
+        padding-bottom: 0;
+    }
+
+    .filters-section img{
+        flex: 1;
+        max-width: 25%;
+        height: 150px;
+    }
+
+    .img-container{
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+}
+
+@media (max-width: 480px){
+   header h1, .large-menu{
+    display: none;
+   }
+
+   .mobile-menu{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-right: 30px;
+    padding: 0;
+    width: 100%; /* Garante que ocupa toda a largura */
+    justify-content: space-between;
+   }
+
+   .sign-up-section{
+    margin-left: 0px;
+    text-align: center;
+   }
+
+   .features-section{
+    flex-direction: column;
+    gap: 25px;
+    }
+
+    .left-picture, .right-picture{
+     max-width: 90%; /* Evita que ultrapasse a tela */
+     margin: 0 auto; /* Centraliza horizontalmente */
+    }
+}

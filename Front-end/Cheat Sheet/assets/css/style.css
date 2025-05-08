@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+    text-align: center;
+}
+
+
+#table1 {
+    border: solid black 2px;
+    width: 50%;
+    border-collapse: collapse; /* Ensures borders don't double */
+    margin: auto;
+}
+
+tr {
+    border: solid black 1px;
+}
+
+td {
+    border-right: solid white 1px;
+}
+
+thead td{
+    background-color: pink;
+    font-weight: bold;
+    border-right: solid white 1px;
+}
+
+.tag {
+    background-color: lightgrey;
+}

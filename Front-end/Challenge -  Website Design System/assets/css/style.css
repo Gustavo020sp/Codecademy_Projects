@@ -1,0 +1,39 @@
+.colors{
+    border: 1px solid black;
+    width: 50%; /* or any width you prefer */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.colors h2{
+    padding-left: 50px;
+}
+
+.colors ul li {
+    display: inline-block;
+}
+
+.listbox{
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    margin-right: 0px;
+    margin-left: 5px;
+}
+
+#pink{
+    background-color: #d957d9;
+}
+
+#coolblue{
+    background-color: #2d5dcc;
+}
+
+#mintgreen{
+    background-color:#4fe0b0;
+}
+
+#biege{
+    background-color: #efd9ca;
+}

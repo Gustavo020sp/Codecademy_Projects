@@ -1,0 +1,109 @@
+body {
+    background-color: black;
+    font-family:  Helvetica;
+    color: seashell;
+}
+
+header {
+    border-bottom: 1px solid seashell;
+    color: seashell;
+    height: 69px;
+}
+
+header ul {
+    display: inline-flex;
+    position: absolute;
+    right: 0;
+    list-style-type: none;
+    /* Remove the bullets */
+    text-decoration: underline;
+}
+
+ul li {
+    padding-right: 30px;
+}
+
+#logo {
+    margin-left: 10px;
+}
+
+.main-div {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mission {
+    background-image: url("../img/img-mission-background.jpg");
+    background-size: cover; /* Ensure the image covers the div without stretching */
+    min-height: 700px; /* Set a minimum height */
+    width: 100%; /* Make the div take up the full available width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.locations{
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-direction: row;
+    flex-wrap: wrap; /* Allows items to wrap */
+}
+
+.figures{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.mid-img{
+    width: 300px;
+    height: 200px;
+}
+
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+.black-box{
+    background-color: black;
+    margin-right: 40px;
+    margin-top: 15px;
+    flex: 1 1 300px; /* Flex-grow, flex-shrink, and flex-basis */
+    max-width: 300px; /* Prevents it from growing beyond 300px */
+    padding: 15px;
+}
+
+.imgmission {
+    opacity: 0.4;
+}
+
+.last-div{
+    height: 500px;
+    background-image: url("../img/img-locations-background.jpg");
+    padding-bottom: 200px;
+}
+
+.last-div h4{
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+.teacozy{
+    height: 200px;
+}
+
+footer{
+    text-align: left;
+}
