@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App_Interfaces.Entities
 {
-    internal class TodoList
+    internal class TodoList : IDisplayable
     {
         //properties
         public string[] Todos
@@ -21,10 +21,19 @@ namespace App_Interfaces.Entities
             nextOpenIndex = 0;
         }
 
+        //methods
         public void Add(string todo)
         {
             Todos[nextOpenIndex] = todo;
             nextOpenIndex++;
+        }
+
+        public void Display()
+        {
+            foreach (string todo in Todos)
+            {
+                Console.WriteLine(todo);
+            }
         }
     }
 }

@@ -8,5 +8,6 @@ namespace App_Interfaces.Entities
 {
     internal interface IDisplayable
     {
+        public void Display();
     }
 }
