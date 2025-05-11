@@ -1,10 +1,17 @@
-﻿namespace App_Interfaces
+﻿using App_Interfaces.Entities;
+
+namespace App_Interfaces
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            TodoList tdl = new TodoList();
+            tdl.Add("Invite friends");
+            tdl.Add("Buy decorations");
+            tdl.Add("Party");
+
+            PasswordManager pm = new PasswordManager("iluvpie", true);
         }
     }
 }
