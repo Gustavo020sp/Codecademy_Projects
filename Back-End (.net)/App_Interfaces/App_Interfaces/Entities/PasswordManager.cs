@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App_Interfaces.Entities
 {
-    internal class PasswordManager : IDisplayable
+    internal class PasswordManager : IDisplayable, IResetable
     {
         private string Password
         { get; set; }
@@ -24,6 +24,7 @@ namespace App_Interfaces.Entities
         {
             if (Hidden)
             {
+                Console.Write("Password: ");
                 for (int i = 1; i <= Password.Length; i++)
                 {
                     Console.Write("*");
@@ -31,9 +32,15 @@ namespace App_Interfaces.Entities
             }
             else
             {
-                Console.WriteLine(Password);
+                Console.WriteLine($"Password: {Password}");
             }
 
+        }
+
+        public void Reset()
+        {
+            Password = "";
+            Hidden = false;
         }
     }
 }

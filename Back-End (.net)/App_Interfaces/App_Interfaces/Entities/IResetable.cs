@@ -8,5 +8,6 @@ namespace App_Interfaces.Entities
 {
     internal interface IResetable
     {
+        public void Reset();
     }
 }
