@@ -23,6 +23,7 @@ namespace App_Interfaces.Entities
                 }
                 else
                 {
+                    //implement try catch for better performance
                     throw new ArgumentException("password must be at least 8 caracteres.");
                 }
             }
