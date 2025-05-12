@@ -8,6 +8,7 @@ namespace App_Interfaces.Entities
 {
     internal interface IDisplayable
     {
+        string HeaderSymbol { get; }
         public void Display();
     }
 }
