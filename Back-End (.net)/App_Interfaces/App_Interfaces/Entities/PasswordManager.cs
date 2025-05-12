@@ -11,7 +11,7 @@ namespace App_Interfaces.Entities
     {
         public string HeaderSymbol { get; set; }
 
-        public string _password;
+        private string _password;
         private string Password
         {
             get {  return _password; }
