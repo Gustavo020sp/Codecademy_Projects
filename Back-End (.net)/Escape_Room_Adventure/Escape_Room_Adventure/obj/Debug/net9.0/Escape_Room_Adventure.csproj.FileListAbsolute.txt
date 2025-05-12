@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\bin\Debug\net9.0\Escape_Room_Adventure.exe
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\bin\Debug\net9.0\Escape_Room_Adventure.deps.json
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\bin\Debug\net9.0\Escape_Room_Adventure.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\bin\Debug\net9.0\Escape_Room_Adventure.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\bin\Debug\net9.0\Escape_Room_Adventure.pdb
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\refint\Escape_Room_Adventure.dll
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.pdb
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\Escape_Room_Adventure.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documents\Codecademy_Projects\Back-End (.net)\Escape_Room_Adventure\Escape_Room_Adventure\obj\Debug\net9.0\ref\Escape_Room_Adventure.dll
