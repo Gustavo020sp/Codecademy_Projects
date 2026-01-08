@@ -27,6 +27,20 @@
             int secondquantity = Array.IndexOf(itemQuantities, 8);
 
             Console.WriteLine(spaceInventory[seconditem] + ", " +  itemQuantities[secondquantity]);
+
+            spaceInventory[7] = "Scientific Instruments"; // item replacement
+            itemQuantities[7] = 5;
+
+            int itemtest = Array.IndexOf(itemQuantities, 5);
+            Console.WriteLine($"The first item with quantity 5 is at position {itemtest + 1}");
+
+            Array.Reverse(spaceInventory);
+            Console.WriteLine(spaceInventory[0]);
+            Console.WriteLine(spaceInventory[7]);
+
+            Array.Sort(spaceInventory);
+            Console.WriteLine(spaceInventory[0]);
+            Console.WriteLine(spaceInventory[7]);
         }
     }
 }
