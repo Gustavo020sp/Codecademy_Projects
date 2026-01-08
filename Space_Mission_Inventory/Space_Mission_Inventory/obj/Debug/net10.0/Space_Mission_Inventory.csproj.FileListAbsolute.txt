@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\bin\Debug\net10.0\Space_Mission_Inventory.exe
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\bin\Debug\net10.0\Space_Mission_Inventory.deps.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\bin\Debug\net10.0\Space_Mission_Inventory.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\bin\Debug\net10.0\Space_Mission_Inventory.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\bin\Debug\net10.0\Space_Mission_Inventory.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.sourcelink.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\refint\Space_Mission_Inventory.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\Space_Mission_Inventory.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Space_Mission_Inventory\Space_Mission_Inventory\obj\Debug\net10.0\ref\Space_Mission_Inventory.dll

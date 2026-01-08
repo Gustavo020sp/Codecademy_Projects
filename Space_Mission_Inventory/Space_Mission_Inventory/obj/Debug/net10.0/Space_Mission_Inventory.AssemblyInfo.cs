@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Space_Mission_Inventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50e4e7952778211ce6271b978a479256735f4351")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72aff47b49a5af0cd2f08f4721d0e968fc49b080")]
 [assembly: System.Reflection.AssemblyProductAttribute("Space_Mission_Inventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Space_Mission_Inventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
