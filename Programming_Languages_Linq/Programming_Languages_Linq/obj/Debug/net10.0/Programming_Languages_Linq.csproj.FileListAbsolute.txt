@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\bin\Debug\net10.0\Programming_Languages_Linq.exe
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\bin\Debug\net10.0\Programming_Languages_Linq.deps.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\bin\Debug\net10.0\Programming_Languages_Linq.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\bin\Debug\net10.0\Programming_Languages_Linq.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\bin\Debug\net10.0\Programming_Languages_Linq.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.sourcelink.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\refint\Programming_Languages_Linq.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\Programming_Languages_Linq.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\Programming_Languages_Linq\Programming_Languages_Linq\obj\Debug\net10.0\ref\Programming_Languages_Linq.dll
