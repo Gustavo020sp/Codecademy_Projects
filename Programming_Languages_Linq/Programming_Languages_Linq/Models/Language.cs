@@ -34,5 +34,13 @@ namespace Programming_Languages_Linq.Models
         {
             return $"{Year}, {Name}, {ChiefDeveloper}, {Predecessors}";
         }
+
+        public static void PrettyPrintAll(IEnumerable<Language> langs)
+        {
+            foreach (var item in langs)
+            {
+                Console.WriteLine($"{item.Year}, {item.Name}, {item.ChiefDeveloper}, {item.Predecessors}");
+            }
+        }
     }
 }
