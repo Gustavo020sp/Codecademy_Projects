@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\bin\Debug\net10.0\GameList.exe
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\bin\Debug\net10.0\GameList.deps.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\bin\Debug\net10.0\GameList.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\bin\Debug\net10.0\GameList.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\bin\Debug\net10.0\GameList.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.sourcelink.json
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\refint\GameList.dll
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.pdb
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\GameList.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\Codecademy_Projects\GameList\GameList\obj\Debug\net10.0\ref\GameList.dll
